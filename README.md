@@ -2,9 +2,11 @@ live_migration
 ==============
 
 DESCRIPTION
+
   Geometric Program Formulation for Minimizing Delays in a Multi-VM Live Migration.
 
 USAGE
+
   In order to run our MATLAB code, the Geometric Programming ggplab solver needs to be installed first.
   Intructions can be found at: http://stanford.edu/~boyd/ggplab/
 
@@ -20,6 +22,7 @@ COPYRIGHT
   It is provided "as is" without express or implied warranty.
  
  CITATION
+ 
   If you use this code, please cite our paper: 
   Walter Cerroni and Flavio Esposito, "Optimizing Live Migration of Multiple Virtual Machines". 
   Technical Report. Nov 2014. 
