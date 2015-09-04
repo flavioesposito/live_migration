@@ -11,7 +11,7 @@ USAGE
   Intructions can be found at: http://stanford.edu/~boyd/ggplab/
 
   Start with the file MAIN_full_utility_impact_multiVM.m
-  Further comments are present within each matlab file.
+  Further comments are within each matlab file.
 
 COPYRIGHT 
  
@@ -24,5 +24,5 @@ COPYRIGHT
  CITATION
  
   If you use this code, please cite our paper: 
-  Walter Cerroni and Flavio Esposito, "Optimizing Live Migration of Multiple Virtual Machines". 
+  Flavio Esposito and Walter Cerroni, "Optimizing Live Migration of Multiple Virtual Machines". 
   Technical Report. Nov 2014. 
